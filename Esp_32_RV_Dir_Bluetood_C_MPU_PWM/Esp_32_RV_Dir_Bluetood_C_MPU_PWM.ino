@@ -1,3 +1,9 @@
+/*
+Comandos git:
+  git commit -a -m "primero test"
+  git push --set-upstream origin master
+*/
+
 #include "BluetoothSerial.h"
 
 #if !defined(CONFIG_BT_ENABLED) || !defined(CONFIG_BLUEDROID_ENABLED)
